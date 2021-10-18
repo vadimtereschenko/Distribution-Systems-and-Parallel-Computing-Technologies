@@ -1,0 +1,4 @@
+﻿  Laboratory_work_2.cpp
+C:\Users\Anemic\Documents\Work\University\7 half year\Distribution Systems and Parallel Computing Technologies\My individual task\Laboratory_work_2\Laboratory_work_2\Laboratory_work_2.cpp(32,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Anemic\Documents\Work\University\7 half year\Distribution Systems and Parallel Computing Technologies\My individual task\Laboratory_work_2\Laboratory_work_2\Laboratory_work_2.cpp(145,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Laboratory_work_2.vcxproj -> C:\Users\Anemic\Documents\Work\University\7 half year\Distribution Systems and Parallel Computing Technologies\My individual task\Laboratory_work_2\Laboratory_work_2\Debug\Laboratory_work_2.exe
